@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Patrick exercise
+=======
+Patrick master
+>>>>>>> master
